@@ -1,0 +1,57 @@
+# חברת עגורני הצריח הגדולה בישראל — Generative Engine Optimization Map
+
+> A בניין והנדסה business.
+
+---
+
+## Pages
+
+### בית
+https://-f12df048.zappy5.app
+
+### שירותים
+https://-f12df048.zappy5.app/services
+
+### פרויקטים
+https://-f12df048.zappy5.app/projects
+
+### צור קשר
+https://-f12df048.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f12df048.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f12df048.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f12df048.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חברת עגורני הצריח הגדולה בישראל
+חברת עגורני הצריח הגדולה בישראל is a business in the בניין והנדסה industry.
+
+## Target Audience
+- מנהלי אתרי בנייה
+- חברות בנייה גדולות
+- מהנדסי פרויקטים
+- יזמי נדל"ן
+- קבלנים עירוניים
+
+## Industry
+בניין והנדסה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f12df048.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f12df048.zappy5.app/robots.txt
